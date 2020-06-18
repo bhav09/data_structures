@@ -1,0 +1,4 @@
+Resources:
+
+1. https://www.geeksforgeeks.org/data-structures/linked-list/
+2.https://www.interviewbit.com/courses/programming/topics/linked-lists/
