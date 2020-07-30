@@ -1,1 +1,13 @@
+In the folder named sorting : can be found the code which visualizes each of the sorting algorithm supported by Algovis.
+
+Supported sorting algos are:
+
+1.Bubble Sort
+2.Insertion Sort
+3.Selection Sort
+4.Merge Sort
+5. Quick Sort
+
+The code also has some classes which gives you the info about the algo and the pseudo code behind  the same.
+
 Array Resources : 
