@@ -1,4 +1,4 @@
-#Move all negative numbers to beginning and positive to end with constant extra space
+#Move all negative numbers to beginning and positive to end
 
 def CustomShuffle(arr):
 	neg=[]
