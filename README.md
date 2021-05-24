@@ -8,9 +8,9 @@ This repository is dedicated to Data Structures . The code , resources / referen
 Resources can be found in about.txt file of every folder.
 
 
-### [Arrays]()
+### [Arrays](https://github.com/bhav09/data_structures/tree/master/Arrays)
 
-### [String]()
+### [String](https://github.com/bhav09/data_structures/tree/master/String
 
 ### [Recursion]()
 
