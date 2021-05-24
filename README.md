@@ -10,7 +10,7 @@ Resources can be found in about.txt file of every folder.
 
 ### [Arrays](https://github.com/bhav09/data_structures/tree/master/Arrays)
 
-### [String](https://github.com/bhav09/data_structures/tree/master/String
+### [String](https://github.com/bhav09/data_structures/tree/master/String)
 
 ### [Recursion]()
 
